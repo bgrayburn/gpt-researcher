@@ -47,6 +47,7 @@ logs/
 *.orig
 *.log
 server_log.txt
+
 # Devenv
 .devenv*
 devenv.local.nix
@@ -56,4 +57,7 @@ devenv.local.nix
 
 # pre-commit
 .pre-commit-config.yaml
->>>>>>> Stashed changes
+
+#Cursor Rules
+.cursorrules
+CURSOR_RULES.md
